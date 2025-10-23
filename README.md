@@ -2,6 +2,21 @@
 
 A real-time chat application built with Next.js, Express, Socket.io, Kafka, Redis, and PostgreSQL. This application enables users to create group chats with real-time messaging capabilities powered by Apache Kafka for message streaming and Redis for caching.
 
+## Screenshots
+
+#### Group creation 
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/d6c81b05-fd95-4801-bcad-0d65dc5ffeee" />
+
+#### Group created and link copied
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/2c7e6cdf-1cc1-4ae8-87e4-29ddc923e0f6" />
+
+#### Joining rooms
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/c8b01b97-c994-438e-9b9e-88146b570dc3" />
+
+#### Real-time message delivery
+![ezgif-675589fd8c7cc9](https://github.com/user-attachments/assets/65ce7336-7452-497a-afb8-119a83afb03c)
+
+
 ## Architecture
 
 ```mermaid
